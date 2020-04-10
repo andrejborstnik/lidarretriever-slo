@@ -17,6 +17,6 @@ These tile labels are in the format `(x_y)`. First tile should be north-west, la
 
 Now we run the program:
 
-`python lidar-evode.py --x1 486 --y1 83 --x2 470 --y2 85`
+`python lidar-evode.py --x1 468 --y1 83 --x2 470 --y2 85`
 
 Use `lidar-evode-dem.py` for DEM files.
